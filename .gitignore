@@ -1,0 +1,15 @@
+# Code source (garder uniquement docs/ pour GitHub Pages)
+site/
+.venv/
+
+# Claude Code settings
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
